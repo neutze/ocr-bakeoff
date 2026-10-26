@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+dist/
+# Results live next to the test files (<testdir>/.ocr-bakeoff/), never in this tree.
+.ocr-bakeoff/
+# Claude Code worktrees of this repo.
+.claude/worktrees/
