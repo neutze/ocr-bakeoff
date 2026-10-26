@@ -94,7 +94,8 @@ Turkish document archive (aggregates only; no document leaves the archive):
 
 Built to choose a reader for my own document archive, after the model it used turned out to skip
 everything above a letter's subject line, letterheads included. What the benchmark got wrong first,
-and what it found, is written up on [neutze.de](https://neutze.de).
+and what it found, is written up on neutze.de:
+[Score the Part of the Page You Cannot Afford to Lose](https://neutze.de/software/archive/score-the-part-of-the-page-you-cannot-lose/).
 
 ## Licence
 
